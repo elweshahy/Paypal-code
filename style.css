@@ -1,0 +1,40 @@
+h1{
+    color: rgb(30, 210, 186);
+    text-align: center;
+}
+img {
+    width: 200px;
+    height: 200px;
+}
+section{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, auto));
+    gap: 1.5rem;
+}
+.ss{
+    border: 1px solid black;
+    width: 200px;
+    
+}
+.sophy{
+    padding: 10px;
+}
+.sophy a {
+    text-decoration: none;
+}
+.sophy .p3{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    border-radius: 6px;
+    margin-left: 51px;
+}
+.sophy .p1{
+    color: red;
+    margin-top: 1px;
+}
+.sophy .p2{
+    color: rebeccapurple;
+    margin-top: -37px;
+    margin-left: 104px;
+}
